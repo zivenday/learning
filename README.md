@@ -8,7 +8,7 @@ js 实现
 
 算法实现
 
-面试题(每日学习三到四题学习)
+[面试题(每日学习三到四题学习)](https://github.com/zivenday/learning/blob/master/interview/history.md)
 
 ##### 历史
 
