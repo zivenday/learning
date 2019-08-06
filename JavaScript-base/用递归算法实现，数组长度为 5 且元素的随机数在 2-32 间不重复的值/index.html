@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Document</title>
+	</head>
+	<body>
+		<script>
+			function fillRandomNum(arr) {
+				while (true) {
+					// fixed interval random number
+					//［a, b)：  (int)(Math.random()*(b-a)+a)
+					//［a, b]：   (int)(Math.random()*(b-a+1)+a)
+					var item = Math.floor(Math.random() * 30 + 2)
+					if (arr.includes(item)) {
+						++i
+					} else {
+						arr.push(item)
+						return arr
+					}
+				}
+			}
+			function fillArray(arr) {
+				debugger
+				var array = arr || []
+				if (
+					array.filter(e => e < 2 || e >= 32).length > 0 &&
+					array.length > 0
+				)
+					array = []
+				if (array.length === 5) {
+					return array
+				} else {
+					array = fillRandomNum(array)
+					// here must return keyword that console the end array
+					return fillArray(array)
+				}
+			}
+			console.log(fillArray([1]))
+
+			// 6 行写完  不使用while ,而是递归生成
+			// function buildArray(arr, length, min, max) {
+			// 	var num = Math.floor(Math.random() * (max - min + 1)) + min
+			// 	if (!arr.includes(num)) {
+			// 		arr.push(num)
+			// 	}
+			// 	return arr.length === length
+			// 		? arr
+			// 		: buildArray(arr, length, min, max)
+			// }
+			// var result = buildArray([], 5, 2, 32)
+			// console.table(result)
+
+			// 点评：
+			// 知识点：递归、随机数
+			// 难点：1颗星
+			// 这道题主要是想考递归的用法，同时顺带考了生成指定范围的随机数方法。
+		</script>
+	</body>
+</html>
