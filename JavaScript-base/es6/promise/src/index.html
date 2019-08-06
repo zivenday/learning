@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>Document</title>
+	</head>
+	<body>
+		<script>
+			var index = 0
+			function _Promise(fn) {
+				var self = this
+				this.index = ++index
+				this.state = 'pending'
+				this.value = null
+				this.callbacks = []
+
+				this.then = function(onFulfilled) {
+					// 返回一个新的Promise对象
+					return new _Promise(function(resolve) {
+						handleCallback({
+							onFulfilled: onFulfilled || null,
+							resolve: resolve, // 让当前的promise对象和新的promise对象关联
+						})
+					})
+				}
+
+				function handleCallback(callback) {
+					if (self.state === 'pending') {
+						self.callbacks.push(callback)
+						return
+					}
+
+					var res = callback.onFulfilled(self.value)
+					// 调用新的promise对象的resolve
+					callback.resolve(res)
+				}
+
+				function resolve(value) {
+					self.state = 'fulfilled'
+					self.value = value
+					// 让所有回调函数进入下一个事件循环执行
+					setTimeout(function() {
+						self.callbacks.forEach(function(callback) {
+							handleCallback(callback)
+						})
+					}, 0)
+				}
+
+				fn(resolve)
+			}
+
+			var a = new _Promise(function(resolve) {
+				resolve(1)
+			})
+
+			a.then(x => {
+				console.log(x)
+				return x + 1
+			})
+				.then(x => {
+					return x + 3
+				})
+				.then(y => {
+					return x + 1
+				})
+		</script>
+	</body>
+</html>
