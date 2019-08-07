@@ -18,7 +18,7 @@ css:[CSS3 有哪些新增的特性？](https://github.com/zivenday/learning/issu
 
 js:[写一个方法去掉字符串中的空格](https://github.com/zivenday/learning/issues/6)
 
-html: [HTML 全局属性(global attribute)有哪些（包含 H5）？](https://github.com/haizlin/fe-interview/issues/7)
+html: [HTML 全局属性(global attribute)有哪些（包含 H5）？](https://github.com/zivenday/learning/issues/7)
 
-css:[在页面上隐藏元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/8)
-js:[去除字符串中最后一个指定的字符](https://github.com/haizlin/fe-interview/issues/9)
+css:[在页面上隐藏元素的方法有哪些？](https://github.com/zivenday/learning/issues/8)
+js:[去除字符串中最后一个指定的字符](https://github.com/zivenday/learning/issues/9)
