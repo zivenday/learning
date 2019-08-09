@@ -3,3 +3,6 @@
 1、[用递归算法实现，数组长度为 5 且元素的随机数在 2-32 间不重复的值](https://github.com/zivenday/learning/issues/3)
 2、[写一个方法去掉字符串中的空格](https://github.com/zivenday/learning/issues/6)
 3、[去除字符串中最后一个指定的字符](https://github.com/zivenday/learning/issues/9)
+4、[写一个方法把下划线命名转成大驼峰命名](https://github.com/zivenday/learning/issues/14)
+5、[写一个把字符串大小写切换的方法](https://github.com/zivenday/learning/issues/15)
+6、[写一个去除制表符和换行符的方法](https://github.com/zivenday/learning/issues/18)

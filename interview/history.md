@@ -10,7 +10,7 @@ css: [圣杯布局和双飞翼布局的理解和区别，并用代码实现](htt
 
 js: [用递归算法实现，数组长度为 5 且元素的随机数在 2-32 间不重复的值](https://github.com/zivenday/learning/issues/3)
 
-##### 第二天（2018--08-07）
+##### 第二天（2018-08-07）
 
 html:[html 的元素有哪些（包含 H5）？](https://github.com/zivenday/learning/issues/4)
 
@@ -22,3 +22,19 @@ html: [HTML 全局属性(global attribute)有哪些（包含 H5）？](https://g
 
 css:[在页面上隐藏元素的方法有哪些？](https://github.com/zivenday/learning/issues/8)
 js:[去除字符串中最后一个指定的字符](https://github.com/zivenday/learning/issues/9)
+
+##### 第三天（2018-08-08）
+
+html:[HTML5 的文件离线储存怎么使用，工作原理是什么？](https://github.com/zivenday/learning/issues/10)
+
+css:[CSS 选择器有哪些？哪些属性可以继承？](https://github.com/zivenday/learning/issues/11)
+
+js:[写一个方法把下划线命名转成大驼峰命名](https://github.com/zivenday/learning/issues/14)
+
+css:[CSS3 新增伪类有哪些并简要描述](https://github.com/zivenday/learning/issues/13)
+
+html:[简述超链接 target 属性的取值和作用](https://github.com/zivenday/learning/issues/12)
+
+js:[写一个把字符串大小写切换的方法](https://github.com/zivenday/learning/issues/15)
+
+##### 第四天（2018-08-09）
