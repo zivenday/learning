@@ -5,3 +5,4 @@
 3、[在页面上隐藏元素的方法有哪些？](https://github.com/zivenday/learning/issues/8)
 4、[CSS 选择器有哪些？哪些属性可以继承？](https://github.com/zivenday/learning/issues/11)
 5、[CSS3 新增伪类有哪些并简要描述](https://github.com/zivenday/learning/issues/13)
+6、[用 css 创建一个三角形，并简述原理](https://github.com/zivenday/learning/issues/17)

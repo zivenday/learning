@@ -38,3 +38,9 @@ html:[简述超链接 target 属性的取值和作用](https://github.com/zivend
 js:[写一个把字符串大小写切换的方法](https://github.com/zivenday/learning/issues/15)
 
 ##### 第四天（2018-08-09）
+
+html:[label 都有哪些作用？并举相应的例子说明](https://github.com/zivenday/learning/issues/16)
+
+css:[用 css 创建一个三角形，并简述原理](https://github.com/zivenday/learning/issues/17)
+
+js:[写一个去除制表符和换行符的方法](https://github.com/zivenday/learning/issues/18)
