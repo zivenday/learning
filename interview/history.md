@@ -52,4 +52,4 @@ html:[ iframe 框架都有哪些优缺点？](https://github.com/zivenday/learni
 
 css:[简述你对 BFC 规范的理解](https://github.com/zivenday/learning/issues/20)
 
-js:[简述你对 BFC 规范的理解](https://github.com/zivenday/learning/issues/21)
+js:[统计某一字符或字符串在另一个字符串中出现的次数](https://github.com/zivenday/learning/issues/21)
