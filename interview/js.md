@@ -7,3 +7,4 @@
 5、[写一个把字符串大小写切换的方法](https://github.com/zivenday/learning/issues/15)
 6、[写一个去除制表符和换行符的方法](https://github.com/zivenday/learning/issues/18)
 7、[简述你对 BFC 规范的理解](https://github.com/zivenday/learning/issues/21)
+8、[写一个加密字符串的方法](https://github.com/zivenday/learning/issues/24)

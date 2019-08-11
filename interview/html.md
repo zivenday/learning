@@ -7,3 +7,4 @@
 5、[简述超链接 target 属性的取值和作用](https://github.com/zivenday/learning/issues/12)
 6、[label 都有哪些作用？并举相应的例子说明](https://github.com/zivenday/learning/issues/16)
 7、[ iframe 框架都有哪些优缺点？](https://github.com/zivenday/learning/issues/19)
+8、[ 简述下 html5 的离线储存原理，同时说明如何使用？](https://github.com/zivenday/learning/issues/22)
