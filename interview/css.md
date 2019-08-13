@@ -8,3 +8,4 @@
 6、[用 css 创建一个三角形，并简述原理](https://github.com/zivenday/learning/issues/17)
 7、[简述你对 BFC 规范的理解](https://github.com/zivenday/learning/issues/20)
 8、[清除浮动的方式有哪些及优缺点？](https://github.com/zivenday/learning/issues/23)
+9、[简述下你理解的优雅降级和渐进增强](https://github.com/zivenday/learning/issues/26)

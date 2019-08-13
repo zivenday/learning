@@ -54,10 +54,18 @@ css:[简述你对 BFC 规范的理解](https://github.com/zivenday/learning/issu
 
 js:[统计某一字符或字符串在另一个字符串中出现的次数](https://github.com/zivenday/learning/issues/21)
 
-##### 第六天（2018-08-10）
+##### 第六天（2018-08-11）
 
 html:[ 简述下 html5 的离线储存原理，同时说明如何使用？](https://github.com/zivenday/learning/issues/22)
 
 css:[清除浮动的方式有哪些及优缺点？](https://github.com/zivenday/learning/issues/23)
 
 js:[写一个加密字符串的方法](https://github.com/zivenday/learning/issues/24)
+
+##### 第七天（2018-08-12）
+
+html:[浏览器内多个标签页之间的通信方式有哪些？](https://github.com/zivenday/learning/issues/25)
+
+css:[简述下你理解的优雅降级和渐进增强](https://github.com/zivenday/learning/issues/26)
+
+js:[写一个判断数据类型的方法](https://github.com/zivenday/learning/issues/27)
