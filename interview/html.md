@@ -9,3 +9,4 @@
 7、[ iframe 框架都有哪些优缺点？](https://github.com/zivenday/learning/issues/19)
 8、[ 简述下 html5 的离线储存原理，同时说明如何使用？](https://github.com/zivenday/learning/issues/22)
 9、[浏览器内多个标签页之间的通信方式有哪些？](https://github.com/zivenday/learning/issues/25)
+10、[viewport 常见设置都有哪些？](https://github.com/zivenday/learning/issues/28)
