@@ -69,3 +69,11 @@ html:[浏览器内多个标签页之间的通信方式有哪些？](https://gith
 css:[简述下你理解的优雅降级和渐进增强](https://github.com/zivenday/learning/issues/26)
 
 js:[写一个判断数据类型的方法](https://github.com/zivenday/learning/issues/27)
+
+##### 第八天（2018-08-13）
+
+html:[viewport 常见设置都有哪些？](https://github.com/zivenday/learning/issues/28)
+
+css:[对比下 px、em、rem 有什么不同？](https://github.com/zivenday/learning/issues/29)
+
+js:[简要描述下什么是回调函数并写一个例子出来](https://github.com/zivenday/learning/issues/30)
