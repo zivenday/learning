@@ -11,3 +11,5 @@
 9、[简述下你理解的优雅降级和渐进增强](https://github.com/zivenday/learning/issues/26)
 10、[对比下 px、em、rem 有什么不同？](https://github.com/zivenday/learning/issues/29)
 11、[css 常用的布局方式有哪些？](https://github.com/zivenday/learning/issues/32)
+12、[说说你对 css 盒子模型的理解](https://github.com/zivenday/learning/issues/35)
+13、[::before 和:after 中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/zivenday/learning/issues/39)

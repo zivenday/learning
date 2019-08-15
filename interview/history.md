@@ -85,3 +85,23 @@ html:[你对标签语义化的理解是什么](https://github.com/zivenday/learn
 css:[css 常用的布局方式有哪些？](https://github.com/zivenday/learning/issues/32)
 
 js:[简要描述下 JS 有哪些内置的对象](https://github.com/zivenday/learning/issues/33)
+
+##### 第十天（2018-08-15）
+
+html:[常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/zivenday/learning/issues/34)
+
+css:[说说你对 css 盒子模型的理解](https://github.com/zivenday/learning/issues/35)
+
+js:[说说你对 javascript 的作用域的理解](https://github.com/zivenday/learning/issues/36)
+
+软技能:[http 都有哪些状态码？](https://github.com/zivenday/learning/issues/37)
+
+##### 第十一天（2018-08-15）
+
+html:[html5 中的 form 怎么关闭自动完成？](https://github.com/zivenday/learning/issues/38)
+
+css:[::before 和:after 中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/zivenday/learning/issues/39)
+
+js:[写一个获取当前 url 查询字符串中的参数的方法](https://github.com/zivenday/learning/issues/40)
+
+软技能:[网页应用从服务器主动推送到客户端有那些方式？](https://github.com/zivenday/learning/issues/41)

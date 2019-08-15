@@ -11,3 +11,5 @@
 9、[写一个判断数据类型的方法](https://github.com/zivenday/learning/issues/27)
 10、[简要描述下什么是回调函数并写一个例子出来](https://github.com/zivenday/learning/issues/30)
 11、[简要描述下 JS 有哪些内置的对象](https://github.com/zivenday/learning/issues/33)
+12、[说说你对 javascript 的作用域的理解](https://github.com/zivenday/learning/issues/36)
+13、[写一个获取当前 url 查询字符串中的参数的方法](https://github.com/zivenday/learning/issues/40)
