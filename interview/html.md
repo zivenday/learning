@@ -13,3 +13,4 @@
 11、[你对标签语义化的理解是什么](https://github.com/zivenday/learning/issues/31)
 12、[常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/zivenday/learning/issues/34)
 13、[html5 中的 form 怎么关闭自动完成？](https://github.com/zivenday/learning/issues/38)
+14、[title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别？](https://github.com/zivenday/learning/issues/42)

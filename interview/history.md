@@ -105,3 +105,13 @@ css:[::before 和:after 中单冒号和双冒号的区别是什么，这两个�
 js:[写一个获取当前 url 查询字符串中的参数的方法](https://github.com/zivenday/learning/issues/40)
 
 软技能:[网页应用从服务器主动推送到客户端有那些方式？](https://github.com/zivenday/learning/issues/41)
+
+##### 第十二天（2018-08-16）
+
+html:[title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别？](https://github.com/zivenday/learning/issues/42)
+
+css:[style 标签写在 body 前和 body 后的区别是什么？](https://github.com/zivenday/learning/issues/43)
+
+js:[写一个数组去重的方法（支持多维数组）](https://github.com/zivenday/learning/issues/44)
+
+软技能:[对于加班你是怎么看的？](https://github.com/zivenday/learning/issues/45)
