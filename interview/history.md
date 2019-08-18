@@ -96,7 +96,7 @@ js:[说说你对 javascript 的作用域的理解](https://github.com/zivenday/l
 
 软技能:[http 都有哪些状态码？](https://github.com/zivenday/learning/issues/37)
 
-##### 第十一天（2018-08-15）
+##### 第十一天（2018-08-16）
 
 html:[html5 中的 form 怎么关闭自动完成？](https://github.com/zivenday/learning/issues/38)
 
@@ -106,7 +106,7 @@ js:[写一个获取当前 url 查询字符串中的参数的方法](https://gith
 
 软技能:[网页应用从服务器主动推送到客户端有那些方式？](https://github.com/zivenday/learning/issues/41)
 
-##### 第十二天（2018-08-16）
+##### 第十二天（2018-08-17）
 
 html:[title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别？](https://github.com/zivenday/learning/issues/42)
 
@@ -115,3 +115,13 @@ css:[style 标签写在 body 前和 body 后的区别是什么？](https://githu
 js:[写一个数组去重的方法（支持多维数组）](https://github.com/zivenday/learning/issues/44)
 
 软技能:[对于加班你是怎么看的？](https://github.com/zivenday/learning/issues/45)
+
+##### 第十三天（2018-08-18）
+
+html:[为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](https://github.com/zivenday/learning/issues/46)
+
+css:[为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](https://github.com/zivenday/learning/issues/47)
+
+js:[什么是闭包？优缺点分别是什么？](https://github.com/zivenday/learning/issues/48)
+
+软技能:[你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/zivenday/learning/issues/49)

@@ -14,3 +14,4 @@
 12、[说说你对 javascript 的作用域的理解](https://github.com/zivenday/learning/issues/36)
 13、[写一个获取当前 url 查询字符串中的参数的方法](https://github.com/zivenday/learning/issues/40)
 14、[写一个数组去重的方法（支持多维数组）](https://github.com/zivenday/learning/issues/44)
+15、[什么是闭包？优缺点分别是什么？](https://github.com/zivenday/learning/issues/48)
