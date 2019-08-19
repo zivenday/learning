@@ -15,3 +15,5 @@
 13、[html5 中的 form 怎么关闭自动完成？](https://github.com/zivenday/learning/issues/38)
 14、[title 与 h1 的区别、b 与 strong 的区别、i 与 em 的区别？](https://github.com/zivenday/learning/issues/42)
 15、[为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](https://github.com/zivenday/learning/issues/46)
+16、[元素的 alt 和 title 有什么区别？](https://github.com/zivenday/learning/issues/50)
+17、[你认为 table 的作用和优缺点是什么呢？](https://github.com/zivenday/learning/issues/55)

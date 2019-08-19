@@ -125,3 +125,23 @@ css:[为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](https://github.com
 js:[什么是闭包？优缺点分别是什么？](https://github.com/zivenday/learning/issues/48)
 
 软技能:[你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/zivenday/learning/issues/49)
+
+##### 第十四天（2018-08-19）
+
+html:[元素的 alt 和 title 有什么区别？](https://github.com/zivenday/learning/issues/51)
+
+css:[请描述 margin 边界叠加是什么及解决方案](https://github.com/zivenday/learning/issues/52)
+
+js:[返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/zivenday/learning/issues/53)
+
+软技能:[你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](https://github.com/zivenday/learning/issues/54)
+
+##### 第十四天（2018-08-19）
+
+html:[你认为 table 的作用和优缺点是什么呢？](https://github.com/zivenday/learning/issues/55)
+
+css:[解释下 CSS sprites 的原理和优缺点分别是什么？](https://github.com/zivenday/learning/issues/56)
+
+js:[返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/zivenday/learning/issues/57)
+
+软技能:[说说你对 SVN 和 GIT 的理解和区别？](https://github.com/zivenday/learning/issues/58)

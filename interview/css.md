@@ -15,3 +15,5 @@
 13、[::before 和:after 中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/zivenday/learning/issues/39)
 14、[style 标签写在 body 前和 body 后的区别是什么？](https://github.com/zivenday/learning/issues/43)
 15、[为什么 HTML5 只需要写<!DOCTYPE HTML>就可以？](https://github.com/zivenday/learning/issues/47)
+16、[请描述 margin 边界叠加是什么及解决方案](https://github.com/zivenday/learning/issues/51)
+17、[解释下 CSS sprites 的原理和优缺点分别是什么？](https://github.com/zivenday/learning/issues/56)
