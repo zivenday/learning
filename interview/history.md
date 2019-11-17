@@ -136,7 +136,7 @@ js:[返回到顶部的方法有哪些？把其中一个方法出来](https://git
 
 软技能:[你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](https://github.com/zivenday/learning/issues/54)
 
-##### 第十四天（2018-08-19）
+##### 第十五天（2018-08-19）
 
 html:[你认为 table 的作用和优缺点是什么呢？](https://github.com/zivenday/learning/issues/55)
 
@@ -145,3 +145,91 @@ css:[解释下 CSS sprites 的原理和优缺点分别是什么？](https://gith
 js:[返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/zivenday/learning/issues/57)
 
 软技能:[说说你对 SVN 和 GIT 的理解和区别？](https://github.com/zivenday/learning/issues/58)
+
+##### 第十六天（2018-08-20）
+
+html:[怎样在页面上实现一个圆形的可点击区域？](https://github.com/zivenday/learning/issues/59)
+
+css:[什么是 FOUC？你是如何避免 FOUC 的？](https://github.com/zivenday/learning/issues/60)
+
+js:[你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/zivenday/learning/issues/61)
+
+软技能:[你如何看待团建的？你们团建一般都怎么实施？](https://github.com/zivenday/learning/issues/62)
+
+##### 第十七天（2018-08-21）
+
+html:[说说你对 html 中的置换元素和非置换元素的理解](https://github.com/zivenday/learning/issues/63)
+
+css:[什 css 的属性 content 有什么作用呢？有哪些场景可以用到？](https://github.com/zivenday/learning/issues/64)
+
+js:["attribute"和"property"有什么不同？](https://github.com/zivenday/learning/issues/65)
+
+软技能:[你如何看待团建的？你们团建一般都怎么实施？](https://github.com/zivenday/learning/issues/66)
+
+##### 第十八天（2018-08-23）
+
+html:[请描述 HTML 元素的显示优先级](https://github.com/zivenday/learning/issues/67)
+
+css:[要让 Chrome 支持小于 12px 的文字怎么做](https://github.com/zivenday/learning/issues/68)
+
+js:[写一个验证身份证号的方法](https://github.com/zivenday/learning/issues/69)
+
+软技能:[你会手写原生 js 代码吗？](https://github.com/zivenday/learning/issues/70)
+
+##### 第十九天（2018-08-24）
+
+html:[谈谈你对 input 元素中 readonly 和 disabled 属性的理解](https://github.com/zivenday/learning/issues/71)
+
+css:[说说你对 line-height 是如何理解的？](https://github.com/zivenday/learning/issues/72)
+
+js:[写一个方法验证是否为中文 ](https://github.com/zivenday/learning/issues/73)
+
+软技能:[来说说你对重绘和重排的理解，以及如何优化？？](https://github.com/zivenday/learning/issues/74)
+
+##### 第二十天（2018-08-25）
+
+html:[js 放在 html 的<body>和<head>有什么区别](https://github.com/zivenday/learning/issues/75)
+
+css:[说说浏览器解析 CSS 选择器的过程？](https://github.com/zivenday/learning/issues/76)
+
+js:[你对 new 操作符的理解是什么？手动实现一个 new 方法 ](https://github.com/zivenday/learning/issues/77)
+
+软技能:[前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/zivenday/learning/issues/78)
+
+##### 第二十一天（2018-08-26）
+
+html:[关于<form>标签的 enctype 属性你有哪些了](https://github.com/zivenday/learning/issues/79)
+
+css:[说说 CSS 的优先级是如何计算的？](https://github.com/zivenday/learning/issues/80)
+
+js:[0.1 + 0.2、0.1 + 0.3 和 0.1 \* 0.2 分别等于多少？并解释下为什么？ ](https://github.com/zivenday/learning/issues/81)
+
+软技能:[说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/zivenday/learning/issues/82)
+
+html:[说说你对属性 data-的理解 ](https://github.com/zivenday/learning/issues/83)
+
+css:[你有用过 CSS 预处理器吗？喜欢用哪个？原理是什么？](https://github.com/zivenday/learning/issues/84)
+
+js:[如何快速让一个数组乱序，写出来](https://github.com/zivenday/learning/issues/85)
+
+软技能:[你经历过老板要求兼容 IE 吗？IE 几？有什么感悟？](https://github.com/zivenday/learning/issues/86)
+
+##### 第二十二天（2018-08-27）
+
+html:[请说说<script>、<script async>和<script defer>的区别](https://github.com/zivenday/learning/issues/87)
+
+css:[在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/zivenday/learning/issues/88)
+
+js:[写一个判断设备来源的方法](https://github.com/zivenday/learning/issues/89)
+
+软技能:[说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/zivenday/learning/issues/90)
+
+##### 第二十三天（2018-08-28）
+
+html:[解释下你对 GBK 和 UTF-8 的理解？并说说页面上产生乱码的可能原因](https://github.com/zivenday/learning/issues/91)
+
+css:[说说你对 z-index 的理解](https://github.com/zivenday/learning/issues/92)
+
+js:[说说 bind、call、apply 的区别？并手写实现一个 bind 的方法](https://github.com/zivenday/learning/issues/93)
+
+软技能:[你对 Git 的 branch 及工作流的理解是什么？](https://github.com/zivenday/learning/issues/94)
